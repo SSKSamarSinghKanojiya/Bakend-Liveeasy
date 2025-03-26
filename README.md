@@ -157,7 +157,7 @@ Response:
 
 ```
 
-4. Delete Load (PUT /load/{loadId})
+5. Delete Load (PUT /load/{loadId})
 
 Endpoint: DELETE /api/load/:loadId
 
